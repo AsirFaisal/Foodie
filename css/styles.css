@@ -49,7 +49,7 @@ button:hover {
 }
 .about {
   margin-top: 50px;
-  background-image: url(/images/shapes/Frame\ 57.jpg);
+  background-image: url(../images/Frame\ 57.jpg);
   background-repeat: repeat-x;
 
   width: 100%;
